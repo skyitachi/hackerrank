@@ -1,3 +1,5 @@
 .history
 .idea
 *.txt
+build
+cmake-build-debug
